@@ -1,3 +1,7 @@
-Mi nombre es Raúl Ochoa.
+﻿Mi nombre es Raúl Ochoa.
 
 Ahora agrego mi edad que son 22 años
+
+Estudio Derecho en la UCSAR
+
+Estudié en la AMGNB
